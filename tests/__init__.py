@@ -1,1 +1,1 @@
-
+"""Test suite for the Autonomous AI Coding Agent."""
