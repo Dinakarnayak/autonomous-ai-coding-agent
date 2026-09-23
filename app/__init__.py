@@ -1,1 +1,1 @@
-
+"""Autonomous AI Coding Agent application package."""
